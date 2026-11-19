@@ -23,7 +23,7 @@ Ventarus is a small Rust launcher for [scrcpy](https://github.com/Genymobile/scr
 ## Install (Linux)
 
 ```sh
-git clone https://github.com/<you>/ventarus.git
+git clone https://github.com/ilovesquishmallows3335/ventarus.git
 cd ventarus
 ./install.sh
 ```
